@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+# You can run this file by running: pip install -r requirements.txt
+# It will run and download the required libraries
+# If you added SQL features: 
+sqlalchemy

@@ -1,0 +1,31 @@
+order_id,region,product,quantity,unit_price,customer_name,sales_rep,payment_method,status,order_date,total_sales
+ORD3137,East,Milkshake,1,23.64,Bart Simpson,Shaggy Rogers,PayPal,Completed,2025-05-18,23.64
+ORD7237,North,Donut,1,16.07,Daffy Duck,Lisa Simpson,Crypto,Pending,2025-05-31,16.07
+ORD4199,North,Pizza,4,19.7,Bart Simpson,Shaggy Rogers,Cash,Completed,2025-05-26,78.8
+ORD2936,South,Taco,7,8.76,SpongeBob,Johnny Bravo,PayPal,Pending,2025-06-03,61.32
+ORD2866,West,Burger,2,17.92,Scooby Doo,Dexter,Crypto,Cancelled,2025-06-08,35.84
+ORD6037,South,Taco,2,21.27,Patrick Star,Lisa Simpson,Credit Card,Cancelled,2025-05-22,42.54
+ORD6278,East,Taco,3,19.11,Mickey Mouse,Lisa Simpson,PayPal,Completed,2025-05-26,57.33
+ORD7430,West,Pizza,10,23.63,Mickey Mouse,Johnny Bravo,Cash,Pending,2025-06-02,236.3
+ORD2993,North,Milkshake,9,21.19,Fred Flintstone,Shaggy Rogers,Credit Card,Completed,2025-05-31,190.71
+ORD7080,South,Taco,3,24.86,Scooby Doo,Johnny Bravo,PayPal,Completed,2025-05-14,74.58
+ORD1529,West,Burger,4,16.43,Homer Simpson,Shaggy Rogers,Cash,Pending,2025-05-18,65.72
+ORD4067,North,Burger,8,13.48,Scooby Doo,Dexter,Credit Card,Completed,2025-05-22,107.84
+ORD1570,North,Milkshake,1,10.37,Velma Dinkley,Johnny Bravo,Credit Card,Cancelled,2025-06-10,10.37
+ORD8303,North,Burger,7,8.65,Bart Simpson,Ash Ketchum,Credit Card,Pending,2025-05-28,60.55
+ORD4272,South,Burger,3,24.02,Homer Simpson,Ash Ketchum,PayPal,Pending,2025-05-24,72.06
+ORD1887,East,Burger,7,17.48,Scooby Doo,Shaggy Rogers,Crypto,Completed,2025-05-30,122.36
+ORD3263,North,Donut,2,16.63,Patrick Star,Lisa Simpson,Cash,Cancelled,2025-05-21,33.26
+ORD2647,North,Pizza,5,9.47,Patrick Star,Ash Ketchum,Cash,Cancelled,2025-05-30,47.35
+ORD5163,East,Taco,3,5.14,Homer Simpson,Johnny Bravo,Crypto,Completed,2025-05-21,15.42
+ORD5968,East,Taco,1,10.27,Velma Dinkley,Dexter,PayPal,Pending,2025-05-23,10.27
+ORD6306,North,Donut,6,20.71,Scooby Doo,Lisa Simpson,Cash,Pending,2025-06-01,124.26
+ORD5624,East,Donut,7,9.93,Patrick Star,Ash Ketchum,Cash,Completed,2025-05-27,69.51
+ORD1183,North,Donut,10,23.42,Homer Simpson,Lisa Simpson,Cash,Pending,2025-05-31,234.2
+ORD6754,East,Donut,4,19.75,Scooby Doo,Ash Ketchum,Credit Card,Completed,2025-06-02,79.0
+ORD8029,South,Burger,7,20.3,SpongeBob,Shaggy Rogers,Cash,Cancelled,2025-05-26,142.1
+ORD9631,East,Taco,1,14.11,Velma Dinkley,Ash Ketchum,PayPal,Completed,2025-05-19,14.11
+ORD5701,North,Pizza,10,22.48,SpongeBob,Shaggy Rogers,Cash,Pending,2025-05-19,224.8
+ORD2643,East,Taco,10,12.35,Daffy Duck,Dexter,Cash,Completed,2025-05-25,123.5
+ORD6267,South,Taco,9,20.5,Mickey Mouse,Shaggy Rogers,Crypto,Completed,2025-05-20,184.5
+ORD7338,North,Milkshake,8,19.05,Patrick Star,Johnny Bravo,PayPal,Completed,2025-06-10,152.4
